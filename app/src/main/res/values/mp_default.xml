@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="mp_normal">56dp</dimen>
+
+    <color name="holo_green">##ff99cc00</color>
+    <color name="green">##ff00ff00</color>
+    <color name="holo_blue_bright">#ff00ddff</color>
+    <color name="blue">#770000ff</color>
+
+    <dimen name="mb_corner_radius_2">2dp</dimen>
+    <dimen name="mb_corner_radius_4">4dp</dimen>
+    <dimen name="mb_width_100">100dp</dimen>
+    <dimen name="mb_width_120">120dp</dimen>
+    <dimen name="mb_width_200">200dp</dimen>
+    <dimen name="mb_height_56">56dp</dimen>
+    <dimen name="mb_height_8">8dp</dimen>
+    <dimen name="mb_height_4">4dp</dimen>
+
+    <integer name="mb_animation">500</integer>
+</resources>
